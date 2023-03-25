@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**dennistarqui/dennistarqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "firstName": "Dennis",
+  "lastName": "Tarquino",
+  "age": 31
+}
+```
 
-Here are some ideas to get you started:
+**Programador informático, con dominio en lenguajes como JavaScript, Python, React. Puedo analizar, diseñar e implementar estructuras de bases de datos. Cuento con experiencia en la ejecución de métodos de desarrollo de aplicaciones WEB a través de los lenguajes HTML y CSS. Orientado al detalle**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## comandos consola
+
+| Comando   | Funcion  |
+| :--------:| -------- |
+| pwd       | muestra la ruta donde se encuentra|
+| cd        | cambiar de directorio |
+| rm        | eliminar archivos|
+| man       | manual|
+| kill| mata procesos dificilis de cerrar|
+
