@@ -8,7 +8,7 @@
 }
 ```
 
-**Programador informático, con dominio en lenguajes como JavaScript, Python, React. Puedo analizar, diseñar e implementar estructuras de bases de datos. Cuento con experiencia en la ejecución de métodos de desarrollo de aplicaciones WEB a través de los lenguajes HTML y CSS. Orientado al detalle**
+
 
 ## comandos consola
 
